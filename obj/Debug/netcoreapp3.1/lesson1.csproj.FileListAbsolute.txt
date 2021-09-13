@@ -1,0 +1,13 @@
+D:\nso\data algoritms\lesson1\lesson1\lesson1\bin\Debug\netcoreapp3.1\lesson1.exe
+D:\nso\data algoritms\lesson1\lesson1\lesson1\bin\Debug\netcoreapp3.1\lesson1.deps.json
+D:\nso\data algoritms\lesson1\lesson1\lesson1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.json
+D:\nso\data algoritms\lesson1\lesson1\lesson1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.dev.json
+D:\nso\data algoritms\lesson1\lesson1\lesson1\bin\Debug\netcoreapp3.1\lesson1.dll
+D:\nso\data algoritms\lesson1\lesson1\lesson1\bin\Debug\netcoreapp3.1\lesson1.pdb
+D:\nso\data algoritms\lesson1\lesson1\lesson1\obj\Debug\netcoreapp3.1\lesson1.csprojAssemblyReference.cache
+D:\nso\data algoritms\lesson1\lesson1\lesson1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfoInputs.cache
+D:\nso\data algoritms\lesson1\lesson1\lesson1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfo.cs
+D:\nso\data algoritms\lesson1\lesson1\lesson1\obj\Debug\netcoreapp3.1\lesson1.csproj.CoreCompileInputs.cache
+D:\nso\data algoritms\lesson1\lesson1\lesson1\obj\Debug\netcoreapp3.1\lesson1.dll
+D:\nso\data algoritms\lesson1\lesson1\lesson1\obj\Debug\netcoreapp3.1\lesson1.pdb
+D:\nso\data algoritms\lesson1\lesson1\lesson1\obj\Debug\netcoreapp3.1\lesson1.genruntimeconfig.cache
